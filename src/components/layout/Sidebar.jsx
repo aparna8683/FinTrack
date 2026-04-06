@@ -49,7 +49,7 @@ const Sidebar = ({ mobile = false, onClose }) => {
                 isLight ? "text-gray-800" : "text-white"
               }`}
             >
-              FinTrackkkkkkkkkk
+              FinTrack
             </h2>
             {/* <p
               className={`text-xs ${
