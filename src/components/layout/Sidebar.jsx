@@ -49,7 +49,7 @@ const Sidebar = ({ mobile = false, onClose }) => {
                 isLight ? "text-gray-800" : "text-white"
               }`}
             >
-              FinTrack
+              FinTrackkkkkkkkkk
             </h2>
             {/* <p
               className={`text-xs ${
@@ -83,7 +83,7 @@ const Sidebar = ({ mobile = false, onClose }) => {
           </div>
         )}
       </div>
-       {/* Nav */}
+      {/* Nav */}
       <nav className="flex-1 space-y-2 p-4">
         {navItems.map(({ to, label, icon: Icon, end }) => (
           <NavLink
